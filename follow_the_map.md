@@ -1,3 +1,5 @@
 Nathaniel brushed off the dust, and together with Evangeline, they followed the path etched in fading ink on the map, passing through golden fields and an abandoned rail station, until they arrived at the landmark called "The Devil's Lantern." It was a weathered stone tower, shaped like an ancient beacon. Carved into the base was the same symbol from the map, with a rusted handle beneath it. They exchanged a glance and, without a word, Nathaniel gripped the handle and pulled.
 
 With a faint click, the side of the stone tower slowly opened, revealing a staircase leading down. The stairs led to a basement filled with old books and yellowed maps, and in the center stood a wooden box with a gilded frame, engraved with the same "Devil's Lantern" symbol. Nathaniel opened the box, revealing a letter that uncovered the secret left by their grandfather—a revelation that true wealth was not just money, but the spirit of adventure and discovery they had inherited.
+
+Under the letter was a small brass compass, its needle pointing in an odd direction. Nathaniel and Evangeline looked at each other, realizing the journey wasn’t over yet.
