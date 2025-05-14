@@ -8,5 +8,5 @@
 ## What to do next? 
 
 A: [Follow the map immediately](./follow_the_map.md)
-B: [Ignore the map](ignore_the_map.md)
+B: [Ignore the map](./ignore-the-map.md)
 C: [Ask their grandma about the map](./ask-grandma.md)
