@@ -6,5 +6,6 @@
 ### Evangeline looked up at Nathaniel eyes wide open, this is what grandfather intended when, in the twilight of his life, he looked at us and uttered find it. 
 
 ## What to do next? 
-
+A: [Follow the map immediately](./follow_the_map.md)
 B: [Ignore the map](ignore_the_map.md)
+
